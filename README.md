@@ -4,12 +4,12 @@ This repository contains my learning journey with various Python libraries. Each
 
 ## Libraries Covered
 
-- **Pandas**: Data manipulation and analysis.
-- **NumPy**: Numerical computing with powerful array objects.
 - **Matplotlib**: 2D plotting library for creating static, animated, and interactive visualizations.
-- **Seaborn**: Statistical data visualization built on top of Matplotlib.
-- **OpenCV**: Computer vision and image processing.
+- **NumPy**: Numerical computing with powerful array objects.
 - **OOP in Python**: Object-Oriented Programming concepts in Python.
+- **OpenCV**: Computer vision and image processing.
+- **Pandas**: Data manipulation and analysis.
+- **Seaborn**: Statistical data visualization built on top of Matplotlib.
 
 ## Repository Structure
 
@@ -17,9 +17,18 @@ The repository is organized into the following folders:
 
 ```plaintext
 .
-├── Pandas/
-├── NumPy/
 ├── Matplotlib/
-├── Seaborn/
+├── NumPy/
+├── OOP/
 ├── OpenCV/
-└── OOP/
+├── Pandas/
+└── Seaborn/
+
+Matplotlib/: Contains examples of various plots like line plots, bar charts, histograms, and scatter plots.
+NumPy/: Includes exercises on array creation, manipulation, mathematical operations, and linear algebra.
+OOP/: Contains code demonstrating the principles of Object-Oriented Programming such as classes, inheritance, polymorphism, and encapsulation.
+OpenCV/: Includes scripts related to image processing, video processing, and object detection.
+Pandas/: Contains scripts and notebooks that cover data manipulation, DataFrames, series operations, handling missing data, and more.
+Seaborn/: Showcases the use of Seaborn for statistical plots such as boxplots, violin plots, and heatmaps.
+
+##Usage
