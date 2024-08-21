@@ -25,12 +25,12 @@ The repository is organized into the following folders:
 └── Seaborn/
 ```
 
-Matplotlib/: Contains examples of various plots like line plots, bar charts, histograms, and scatter plots.
-NumPy/: Includes exercises on array creation, manipulation, mathematical operations, and linear algebra.
-OOP/: Contains code demonstrating the principles of Object-Oriented Programming such as classes, inheritance, polymorphism, and encapsulation.
-OpenCV/: Includes scripts related to image processing, video processing, and object detection.
-Pandas/: Contains scripts and notebooks that cover data manipulation, DataFrames, series operations, handling missing data, and more.
-Seaborn/: Showcases the use of Seaborn for statistical plots such as boxplots, violin plots, and heatmaps.
+- **Matplotlib/**: Contains examples of various plots like line plots, bar charts, histograms, and scatter plots.
+- **NumPy/**: Includes exercises on array creation, manipulation, mathematical operations, and linear algebra.
+- **OOP/**: Contains code demonstrating the principles of Object-Oriented Programming such as classes, inheritance, polymorphism, and encapsulation.
+- **OpenCV/**: Includes scripts related to image processing, video processing, and object detection.
+- **Pandas/**: Contains scripts and notebooks that cover data manipulation, DataFrames, series operations, handling missing data, and more.
+- **Seaborn/**: Showcases the use of Seaborn for statistical plots such as boxplots, violin plots, and heatmaps.
 
 ##Usage
 
