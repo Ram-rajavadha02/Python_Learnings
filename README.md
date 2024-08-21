@@ -23,6 +23,7 @@ The repository is organized into the following folders:
 ├── OpenCV/
 ├── Pandas/
 └── Seaborn/
+```
 
 Matplotlib/: Contains examples of various plots like line plots, bar charts, histograms, and scatter plots.
 NumPy/: Includes exercises on array creation, manipulation, mathematical operations, and linear algebra.
@@ -32,3 +33,4 @@ Pandas/: Contains scripts and notebooks that cover data manipulation, DataFrames
 Seaborn/: Showcases the use of Seaborn for statistical plots such as boxplots, violin plots, and heatmaps.
 
 ##Usage
+
